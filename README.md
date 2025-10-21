@@ -71,7 +71,7 @@ I'm a passionate developer specializing in both **web and mobile development**. 
     <td valign="top" width="33%">
       <h3 align="center">DevOps & Tools</h3>
       <div align="center">  
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" height="50" /></a>  
         <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
         <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
         <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
