@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Ezaz+Ahmed;Full+Stack+%26+Mobile+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Ezaz+Ahmed;Laravel+%26+Full+Stack+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="colored line">
@@ -28,12 +28,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a passionate developer specializing in both **web and mobile development**. With expertise in Flutter, Laravel, MERN stack, and more, I create elegant, efficient solutions for complex problems.
+I'm a passionate **Laravel & Full Stack Web Developer** who builds elegant, scalable web applications. With deep expertise in Laravel, PHP, Vue.js, React, and MySQL, I craft clean and efficient solutions for complex problems.
 
-- 🔭 I'm currently working on **innovative cross-platform apps**
-- 🌱 I'm learning **AI integration in mobile apps**
-- 💬 Ask me about **Flutter, Laravel, PHP, Vue.js, or full-stack development**
-- 🚀 Always exploring **new technologies and frameworks**
+- 🔭 I'm currently working on **scalable Laravel web applications**
+- 🌱 I'm learning **AI integration in web apps**
+- 💬 Ask me about **Laravel, PHP, Vue.js, React, or full-stack web development**
+- 🚀 Always exploring **new web technologies and best practices**
 - 📫 Reach me at: **[ezazahmedsayem@gmail.com](mailto:ezazahmedsayem@gmail.com)**
 - ⚡ Fun fact: **I can code for 8 hours straight but can't decide what to eat for 5 minutes!**
 
@@ -47,47 +47,71 @@ I'm a passionate developer specializing in both **web and mobile development**. 
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">Frontend</h3>
-      <div align="center">  
-        <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+      <div align="center">
+        <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-        <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">Backend</h3>
-      <div align="center">  
-        <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+      <div align="center">
+        <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
+        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">DevOps & Tools</h3>
-      <div align="center">  
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" height="50" /></a>  
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+      <div align="center">
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" height="50" /></a>
+        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+        <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
         <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
       </div>
     </td>
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="colored line">
+</p>
+
+## 📦 Repository Overview
+
+<div align="center">
+
+![Total Repos](https://img.shields.io/badge/Total%20Repos-20+-informational?style=for-the-badge&logo=github&logoColor=white&color=2D333B)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-12+-success?style=for-the-badge&logo=github&logoColor=white&color=1A7F37)
+![Private Repos](https://img.shields.io/badge/Private%20Repos-8+-important?style=for-the-badge&logo=github&logoColor=white&color=6E40C9)
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   📁 Repository Breakdown                    ║
+╠══════════════════╦═══════════════╦══════════════════════════╣
+║  📂 Total Repos  ║  🟢 Public    ║  🔒 Private              ║
+║      20+         ║     12+       ║      8+                  ║
+╠══════════════════╩═══════════════╩══════════════════════════╣
+║  🛠️ Laravel / PHP  ·  🎨 Vue.js  ·  ⚛️ React  ·  🐍 Python  ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="rainbow line">
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codebaba-Ezaz&show_icons=true&count_private=true&hide_border=true&theme=react" width="48%" alt="Ezaz's Github Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Codebaba-Ezaz&show_icons=true&count_private=true&hide_border=true&theme=react" width="48%" alt="Ezaz's Github Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codebaba-Ezaz&hide_border=true&theme=react" width="48%" alt="Ezaz's Github Streak" />
 </div>
 
@@ -133,9 +157,6 @@ I'm a passionate developer specializing in both **web and mobile development**. 
     <td width="50%">
       <h3 align="center">Mama Bus Koi?</h3>
       <div align="center">
-        <a href="https://github.com/Codebaba-Ezaz/Mama-Bus-Koi-" target="_blank">
-        </a>
-        <br>
         <br>
         <p>
           <a href="https://github.com/Codebaba-Ezaz/Mama-Bus-Koi-" target="_blank">
@@ -145,15 +166,12 @@ I'm a passionate developer specializing in both **web and mobile development**. 
             <img src="https://img.shields.io/badge/DEMO-5C4EE0?style=for-the-badge">
           </a>
         </p>
-        <p><strong>Flutter, Firebase, Provider</strong> - A bus tracking and ticket booking mobile application for Bangladesh</p>
+        <p><strong>Laravel, Vue.js, MySQL</strong> - A bus tracking and ticket booking web application for Bangladesh</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Parcel Management System</h3>
       <div align="center">
-        <a href="https://github.com/Codebaba-Ezaz/Parcel-Management-System-SQL-" target="_blank">
-        </a>
-        <br>
         <br>
         <p>
           <a href="https://github.com/Codebaba-Ezaz/Parcel-Management-System-SQL-" target="_blank">
@@ -171,9 +189,6 @@ I'm a passionate developer specializing in both **web and mobile development**. 
     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <div align="center">
-        <a href="https://ezaz-ahmed-portfolio.netlify.app/" target="_blank">
-        </a>
-        <br>
         <br>
         <p>
           <a href="#" target="_blank">
@@ -183,15 +198,12 @@ I'm a passionate developer specializing in both **web and mobile development**. 
             <img src="https://img.shields.io/badge/LIVE-5C4EE0?style=for-the-badge">
           </a>
         </p>
-        <p><strong>Flutter Web, Responsive Design</strong> - My personal portfolio website built with Flutter for web</p>
+        <p><strong>Laravel, Vue.js, Responsive Design</strong> - My personal portfolio website with a modern full-stack architecture</p>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">FTP Server</h3>
       <div align="center">
-        <a href="https://github.com/Codebaba-Ezaz/FTP-Server" target="_blank">
-        </a>
-        <br>
         <br>
         <p>
           <a href="https://github.com/Codebaba-Ezaz/FTP-Server" target="_blank">
@@ -241,4 +253,4 @@ I'm a passionate developer specializing in both **web and mobile development**. 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
-<!-- This README was last updated on 2025-10-15 18:56:07 -->
+<!-- This README was last updated on 2026-05-13 -->
