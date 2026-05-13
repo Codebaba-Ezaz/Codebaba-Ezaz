@@ -88,13 +88,35 @@ I'm a passionate **Laravel & Full Stack Web Developer** who builds elegant, scal
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codebaba-Ezaz&theme=github_dark" alt="GitHub Profile Details" />
+</div>
 
-| Category | Count |
-|---|---|
-| **📂 Total Repos** | <img src="https://img.shields.io/github/all-repos/codebaba-ezaz?style=for-the-badge&logo=github&label=" alt="Total Repos"/> |
-| **🟢 Public Repos** | <img src="https://img.shields.io/github/public-repos/codebaba-ezaz?style=for-the-badge&logo=github&label=" alt="Public Repos"/> |
-| **🔒 Private Repos** | <img src="https://img.shields.io/github/search/codebaba-ezaz/codebaba-ezaz?query=is:private&style=for-the-badge&logo=github&label=" alt="Private Repos"/> |
-
+<div align="center">
+  <table style="width: 300px; border: none; margin: auto;">
+    <tr>
+      <td align="center" style="padding: 10px; border: none;">
+        📂
+        <br>
+        <strong>Total Repos</strong>
+        <br>
+        49
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        📖
+        <br>
+        <strong>Public Repos</strong>
+        <br>
+        31
+      </td>
+      <td align="center" style="padding: 10px; border: none;">
+        🔒
+        <br>
+        <strong>Private Repos</strong>
+        <br>
+        18
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
