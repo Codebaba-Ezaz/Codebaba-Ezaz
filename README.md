@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! I'm Ezaz Ahmed
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝓭𝚎𝚛𝚜/&gt;! I'm Ezaz Ahmed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -61,6 +61,7 @@ I'm a passionate **Laravel & Full Stack Web Developer** who builds elegant, scal
         <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
@@ -82,25 +83,17 @@ I'm a passionate **Laravel & Full Stack Web Developer** who builds elegant, scal
 ## 📦 Repository Overview
 
 <div align="center">
-
-![Total Repos](https://img.shields.io/badge/Total%20Repos-20+-informational?style=for-the-badge&logo=github&logoColor=white&color=2D333B)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-12+-success?style=for-the-badge&logo=github&logoColor=white&color=1A7F37)
-![Private Repos](https://img.shields.io/badge/Private%20Repos-8+-important?style=for-the-badge&logo=github&logoColor=white&color=6E40C9)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codebaba-Ezaz&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codebaba-Ezaz&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                   📁 Repository Breakdown                    ║
-╠══════════════════╦═══════════════╦══════════════════════════╣
-║  📂 Total Repos  ║  🟢 Public    ║  🔒 Private              ║
-║      20+         ║     12+       ║      8+                  ║
-╠══════════════════╩═══════════════╩══════════════════════════╣
-║  🛠️ Laravel / PHP  ·  🎨 Vue.js  ·  ⚛️ React  ·  🐍 Python  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Category | Count |
+|---|---|
+| **📂 Total Repos** | <img src="https://img.shields.io/github/all-repos/codebaba-ezaz?style=for-the-badge&logo=github&label=" alt="Total Repos"/> |
+| **🟢 Public Repos** | <img src="https://img.shields.io/github/public-repos/codebaba-ezaz?style=for-the-badge&logo=github&label=" alt="Public Repos"/> |
+| **🔒 Private Repos** | <img src="https://img.shields.io/github/search/codebaba-ezaz/codebaba-ezaz?query=is:private&style=for-the-badge&logo=github&label=" alt="Private Repos"/> |
 
 </div>
 
@@ -254,3 +247,4 @@ I'm a passionate **Laravel & Full Stack Web Developer** who builds elegant, scal
 </div>
 
 <!-- This README was last updated on 2026-05-13 -->
+
